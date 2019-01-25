@@ -10,3 +10,8 @@ A list of people who write a blog.
 **Writer:** [Mahdi Yusuf](https://twitter.com/myusuf3)  
 **Topics:** Tech, Hacking, Ideas  
 **Feed:** <https://asapracecondition.com/rss.xml>
+
+**Blog Name:** [Bicycle For Your Mind](https://bicycleforyourmind.com)
+**Writer:** [macosxguru](https://twitter.com/macosxguru)
+**Topics:** macOS, iOS, Music, Books, Gizmos
+**Feed:** <https://bicycleforyourmind.com/feed.rss>
